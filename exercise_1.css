@@ -17,7 +17,7 @@ Make the small ball on the right roll to the right when the large one hits it.
 .anim:active .ball-two {
 /* Hint: manipulate margin-left to roll it, just like with the ball-one above. */
 /* Double hint: Don't forget about transition-delay! */
-    margin-left: 100px ;
+    left: 400px ;
     transition-delay: 0.4s;
     transition-duration:0.5s;
 }
